@@ -5,10 +5,10 @@
   - ⚡ Fun fact: The first computer mouse was made of wood
   
   ## 
-<div align="left">
+<div align="center">
       <a href="https://github.com/rafaballerini"></a>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=korinku&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korinku&layout=compact&langs_count=7&theme=nord&custom_title=Languages"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=korinku&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korinku&layout=compact&langs_count=7&theme=nord&custom_title=Languages&card_width=250"/>
 </div>
 
   ##
