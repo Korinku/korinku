@@ -15,14 +15,13 @@
   </div>
   
 ---
-
 <div>
       <a href="https://github.com/korinku"></a>
       <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=korinku&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
       <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korinku&layout=compact&langs_count=7&theme=nord&custom_title=Languages&card_width=250"/>
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ---
 <div style="display: inline_block" align="center"><br>
@@ -70,8 +69,7 @@
   </div>
 
   ---
-  ### Specs 💻
-  <div style="display: inline_block" align="left">
+  <div style="display: inline_block" align="center">
     <img src="https://img.shields.io/badge/CPU-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=none&logoColor=white">
     <img src="https://img.shields.io/badge/GPU-Radeon_RX_580_8Gb_OC-ED1C24?style=for-the-badge&logo=none&logoColor=white">
     <img src="https://img.shields.io/badge/RAM-Ripjaws_V_32GB_(4x8GB)_DDR4_3200MHz-ed4e4e?style=for-the-badge&logo=GSkill&logoColor=white">
