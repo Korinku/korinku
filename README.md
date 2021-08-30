@@ -57,7 +57,7 @@
 ---
 
 <div align="center">
-  <img width=150% src="https://github-profile-trophy.vercel.app/?username=korinku&column=6"/>
+  <img width=150% src="https://github-profile-trophy.vercel.app/?username=korinku&column=6&theme=nord&no-frame=true&margin-w=15"/>
 </div>
   
 ---
