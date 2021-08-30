@@ -70,6 +70,7 @@
 
   ---
   <div style="display: inline_block" align="center">
+    <h3>Specs 💻</h3>
     <img src="https://img.shields.io/badge/CPU-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=none&logoColor=white">
     <img src="https://img.shields.io/badge/GPU-Radeon_RX_580_8Gb_OC-ED1C24?style=for-the-badge&logo=none&logoColor=white">
     <img src="https://img.shields.io/badge/RAM-Ripjaws_V_32GB_(4x8GB)_DDR4_3200MHz-ed4e4e?style=for-the-badge&logo=GSkill&logoColor=white">
