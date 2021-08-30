@@ -77,3 +77,7 @@
     <img src="https://img.shields.io/badge/SSD-660p_512Gb-0071C5?style=for-the-badge&logo=none&logoColor=white">
     <img src="https://img.shields.io/badge/MOBO-B450_Tomahawk-000000?style=for-the-badge&logo=MSI&logoColor=white">
   </div>
+  
+  ### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21a2pmj5q6qn6lvpsoagtznlq)
