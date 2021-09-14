@@ -17,7 +17,7 @@
 ---
 <div>
       <a href="https://github.com/korinku"></a>
-      <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api?username=korinku&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
+      <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=korinku&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
 </div>
 
 <br><br><br><br><br><br><br><br>
