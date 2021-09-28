@@ -13,14 +13,6 @@
     <a href="https://www.twitch.tv/xkorinku" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"</a>
     <a href="https://paypal.me/korinku" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
   </div>
-  
----
-<div>
-      <a href="https://github.com/korinku"></a>
-      <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=korinku&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
-</div>
-
-<br><br><br><br><br><br><br><br>
 
 ---
 <div style="display: inline_block" align="center"><br>
