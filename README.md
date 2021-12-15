@@ -53,15 +53,6 @@
   <img width=150% src="https://github-profile-trophy.vercel.app/?username=korinku&column=6&theme=nord&no-frame=true&margin-w=15"/>
 </div>
   
----
-
-<div align="center">
- 
-  ![Snake animation](https://github.com/korinku/korinku/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
-
-  ---
   <div style="display: inline_block" align="center">
     <h3>Specs 💻</h3>
     <img src="https://img.shields.io/badge/CPU-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=none&logoColor=white">
