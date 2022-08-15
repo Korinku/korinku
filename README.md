@@ -4,7 +4,7 @@
 
 My name is André and here is some information: <br>
 
-➜ Level 21 🌱 <br>
+➜ Level 22 🌱 <br>
 ➜ Comp Sci Student 📚 <br>
 ➜ Certified Bug Creator 👾 <br>
 
