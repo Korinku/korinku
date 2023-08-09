@@ -4,15 +4,15 @@
 
 My name is André and here is some information: <br>
 
-➜ Level 22 🌱 <br>
-➜ Comp Sci Student 📚 <br>
+➜ Level 23 🌱 <br>
+➜ Informatics Engineer Student 📚 <br>
 ➜ Certified Bug Creator 👾 <br>
 
  ---
  
   ### Minecraft Mods
 
-| Industrial Refrabicated | Blank Mod |
+| Industrial Refrabicated | Backpacked Refrabicated |
 |--------------------|------------|
 |![AN](https://dks.pt/wp-content/uploads/2015/07/coming-soon.jpg)|![BM](https://dks.pt/wp-content/uploads/2015/07/coming-soon.jpg)|
 | **💾 Modrinth:** [Download]() | **💾 Modrinth:** [Download]() |
