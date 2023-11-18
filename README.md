@@ -5,7 +5,7 @@
 My name is André and here is some information: <br>
 
 ➜ Level 23 🌱 <br>
-➜ Informatics Engineer Student 📚 <br>
+➜ Informatics Engineering Student 📚 <br>
 ➜ Certified Bug Creator 👾 <br>
 
  ---
