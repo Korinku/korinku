@@ -1,6 +1,6 @@
 ➜ Level 23 🌱 <br>
-➜ Informatics Engineering Student 📚 <br>
-➜ Certified Bug Creator 👾 <br>
+➜ Computer Engineering Student 📚 <br>
+➜ Currently working on eSMP 👾 <br>
 
  ---
  
