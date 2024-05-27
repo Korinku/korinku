@@ -1,6 +1,6 @@
 ➜ Level 23 🌱 <br>
 ➜ Computer Engineering Student 📚 <br>
-➜ Currently working on eSMP 👾 <br>
+➜ Currently working on wSMP, Staky, BlockyPaper and FitChecker 👾 <br>
 
  ---
  
