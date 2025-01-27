@@ -1,6 +1,6 @@
 ➜ Level 23 🌱 <br>
 ➜ Computer Engineering Student 📚 <br>
-➜ Currently working on wSMP, BlockyPaper, Backpacks and Industrial Refabricated 👾 <br>
+➜ Currently working on wSMP, Backpacks and Industrial Refabricated 👾 <br>
 
  ---
  
