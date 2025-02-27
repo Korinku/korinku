@@ -15,7 +15,3 @@
 | **💾 Modrinth:** [Download]() | **💾 Modrinth:** [Download]() |
 | **📘 Source code:** [Quilt](https://github.com/Korinku/Industrial-Refabricated) | **📘 Source code:** [Quilt](https://github.com/Korinku/backpacks) |
 | **🐛 Report bugs:** [Quilt](https://github.com/Korinku/Industrial-Refabricated/issues/new)| **🐛 Report bugs:** [Quilt](https://github.com/Korinku/backpacks/issues/new) |
-
- ---
-  ### Stats
-  ![What I've Been Up To](https://github-readme-stats.vercel.app/api/top-langs/?username=korinku&theme=vue&show_icons=true&hide_border=true&layout=compact)
